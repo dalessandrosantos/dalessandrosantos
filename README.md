@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Estudante de desenvolvimento de software, focado em front-end com JavaScript e Angular.  <br>🛠️ Amante de novas tecnologias e sempre em busca de aprender e melhorar.  <br>🚀 Trabalhando em projetos pessoais para colocar em prática o que aprendo na faculdade.  <br>🌱 Em busca de estágio ou oportunidade como desenvolvedor web junior</p>
+<p align="left">🎓 Estudante de desenvolvimento de software, focado em front-end. <br>🛠️ Amante de novas tecnologias e sempre em busca de aprender e melhorar.  <br>🚀 Trabalhando em projetos pessoais para colocar em prática o que aprendo na faculdade.  <br>🌱 Em busca de estágio ou oportunidade como desenvolvedor web junior</p>
 
 ###
 
