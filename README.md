@@ -1,22 +1,26 @@
+# Olá, eu sou o Dalessandro 👋
 
+Cursando **Análise e Desenvolvimento de Sistemas** e estudando **Python com foco em área de dados**.  
+Uso este GitHub para registrar meus exercícios, projetos pessoais e minha evolução na programação.
 
-###
+---
 
+### 🛠️ Tecnologias
 
+- **Linguagens:** Python, JavaScript
+- **Web:** HTML, CSS (básico)
+- **Versionamento:** Git e GitHub
+- **Ferramentas:** VS Code
 
-###
+---
 
-<h2 align="left">Social Media</h2>
+### 📌 Repositórios em destaque
 
-###
+- [Validador simples de senhas em Python](https://github.com/dalessandrosantos/Validador-simples-de-senhas-em-Python-projeto-pessoal-/tree/main)  
+  Exercício em Python para praticar laços, condicionais e validação de entrada do usuário.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/dalessandro-andr%C3%A9-dos-santos-b128602a3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/dale05__/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-</div>
+---
 
-###
+### 🌐 Onde me encontrar
+
+[LinkedIn](SEU_LINK_DO_LINKEDIN_AQUI)
