@@ -7,8 +7,8 @@ Uso este GitHub para registrar meus exercícios, projetos pessoais e minha evolu
 
 ### 🛠️ Tecnologias
 
-- **Linguagens:** Python, JavaScript
-- **Web:** HTML, CSS (básico)
+- **Linguagens:** Python, JavaScript(básico)
+- **Web:** HTML, CSS 
 - **Versionamento:** Git e GitHub
 - **Ferramentas:** VS Code
 
