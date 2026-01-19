@@ -1,8 +1,6 @@
 # Olá, eu sou o Dalessandro 👋
 
-Cursando **Análise e Desenvolvimento de Sistemas** e estudando **Python com foco na área de automação de processos e tarefas**.  
-Uso este GitHub para registrar meus exercícios, projetos pessoais e minha evolução na programação.
-
+Estudante de TI com foco em Python, automação de processos, scripts e soluções práticas para o dia a dia. Interesse em desenvolvimento, dados e aprendizado contínuo.
 ---
 
 ### 🛠️ Tecnologias
