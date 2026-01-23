@@ -9,6 +9,8 @@ Estudante de TI focado em Python, automação de tarefas e suporte técnico, com
 - Python
 - Git e GitHub
 - VS Code
+- Pandas (análise e manipulação de dados)
+- Jupyter Notebook
 
 **Conhecimento básico**
 - JavaScript
