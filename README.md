@@ -1,15 +1,21 @@
 # Olá, eu sou o Dalessandro 👋
 
-Estudante de TI com foco em Python, automação de processos, scripts e soluções práticas para o dia a dia. Interesse em desenvolvimento, dados e aprendizado contínuo.
+Estudante de TI focado em Python, automação de tarefas e suporte técnico, com interesse em aprender na prática e evoluir constantemente.
 ---
 
 ### 🛠️ Tecnologias
 
-- **Linguagens:** Python, JavaScript(básico)
-- **Web:** HTML, CSS 
-- **Versionamento:** Git e GitHub
-- **Ferramentas:** VS Code
+**Conhecimento prático**
+- Python
+- Git e GitHub
+- VS Code
+
+**Conhecimento básico**
+- JavaScript
+- HTML e CSS
 ---
+🎯 Objetivo
+Busco uma oportunidade de estágio em TI onde eu possa aprender na prática, contribuir com a equipe e evoluir tecnicamente, especialmente nas áreas de suporte, automação e desenvolviment
 
 ### 🌐 Onde me encontrar
 
