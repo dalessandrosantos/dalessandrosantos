@@ -2,7 +2,7 @@
 
 Estudante de TI focado em Python.
 ---
-## 🎯 Objetivo
+### 🎯 Objetivo
 
 Construir uma base sólida em tecnologia e evoluir como desenvolvedor, criando projetos práticos que resolvam problemas reais.
 
