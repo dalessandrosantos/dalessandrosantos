@@ -1,9 +1,7 @@
-### Olá, eu sou o Dalessandro 👋
+Olá, eu sou o Dalessandro
 
-Estudante de ADS com foco em desenvolvimento back-end utilizando Python e Django.
+Atualmente, curso Análise e Desenvolvimento de Sistemas e venho desenvolvendo projetos para colocar meus conhecimentos em prática, adquirir experiência e continuar evoluindo na área de tecnologia.
 
-Atualmente desenvolvendo projetos para praticar e evoluir minhas habilidades em desenvolvimento web.
+Tecnologias: Python • Django • PostgreSQL
 
-**Tecnologias:** Python • Django • PostgreSQL
-
-**LinkedIn:** https://www.linkedin.com/in/dalessandrosantos
+LinkedIn: linkedin.com/in/dalessandrosantos
