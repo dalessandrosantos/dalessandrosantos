@@ -1,12 +1,17 @@
-# Olá, eu sou o Dalessandro
+# Dalessandro André dos Santos
 
-Atualmente, curso Análise e Desenvolvimento de Sistemas e venho desenvolvendo projetos para colocar meus conhecimentos em prática, adquirir experiência e continuar evoluindo na área de tecnologia.
+Estudante de **Análise e Desenvolvimento de Sistemas** focado no desenvolvimento de software e soluções para a web. Busco constantemente aprimorar minhas habilidades técnicas por meio da construção de projetos práticos e estudo contínuo de boas práticas de arquitetura e código.
 
-### 🛠️ Tecnologias
+---
 
-- **Back-end:** Python • Django
-- **Banco de Dados:** PostgreSQL
-- **Front-end:** HTML • CSS • Bootstrap
+### Habilidades Técnicas
 
-----
-**LinkedIn:** [dalessandrosantos](https://www.linkedin.com/in/dalessandrosantos)
+- **Linguagens & Frameworks:** Python, Django
+- **Bancos de Dados:** PostgreSQL
+- **Desenvolvimento Web:** HTML5, CSS3, Bootstrap
+
+---
+
+### Contato & Redes
+
+- **LinkedIn:** [linkedin.com/in/dalessandrosantos](https://www.linkedin.com/in/dalessandrosantos)
